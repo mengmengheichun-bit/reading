@@ -1,0 +1,724 @@
+{
+  "format": "ielts-reading-workspace",
+  "version": 1,
+  "exportedAt": "2026-05-23T05:38:40.862Z",
+  "note": "Upload/import this JSON into IELTS Reading Workspace to sync tests across devices.",
+  "tests": [
+    {
+      "id": "sample-video-games",
+      "title": "Sample IELTS Reading - The attraction of video games",
+      "duration": 60,
+      "passages": [
+        {
+          "id": "p2",
+          "label": "Passage 2",
+          "title": "The attraction of video games",
+          "subtitle": "The world's love of video games has much to do with people's desires and motives",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. 'I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.' Designing video games is increasingly recognised as a valid field of university study throughout the world."
+            },
+            {
+              "label": "B",
+              "text": "Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. 'Games allow us to create these little systems where learning is controlled really brilliantly,' says Margaret Robertson, director at a London-based game design company. 'Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!' And that can, of course, be very exciting."
+            },
+            {
+              "label": "C",
+              "text": "Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. 'Games are increasingly complex systems,' says Dan Pinchbeck, an experimental game designer. 'There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.'"
+            },
+            {
+              "label": "D",
+              "text": "Many studios design their games around reward systems. 'A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,' says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated."
+            },
+            {
+              "label": "E",
+              "text": "Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive."
+            },
+            {
+              "label": "F",
+              "text": "Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of 'gamification', in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years."
+            },
+            {
+              "label": "G",
+              "text": "So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive."
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchingHeadings",
+              "title": "Questions 14-19",
+              "instruction": "Drag the correct heading to the top of each paragraph, or use the dropdown.",
+              "options": [
+                {
+                  "id": "i",
+                  "text": "Being able to experiment without consequences"
+                },
+                {
+                  "id": "ii",
+                  "text": "Why stories are included in games"
+                },
+                {
+                  "id": "iii",
+                  "text": "The key role of the unexpected for game players"
+                },
+                {
+                  "id": "iv",
+                  "text": "Transferring features of games to other types of products"
+                },
+                {
+                  "id": "v",
+                  "text": "The age group that games most appeal to"
+                },
+                {
+                  "id": "vi",
+                  "text": "The development of the video game design industry"
+                },
+                {
+                  "id": "vii",
+                  "text": "Players' ability to control what occurs in games"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "14",
+                  "paragraph": "A",
+                  "answer": "vi"
+                },
+                {
+                  "id": "15",
+                  "paragraph": "B",
+                  "answer": "i"
+                },
+                {
+                  "id": "16",
+                  "paragraph": "C",
+                  "answer": "vii"
+                },
+                {
+                  "id": "17",
+                  "paragraph": "D",
+                  "answer": "iii"
+                },
+                {
+                  "id": "18",
+                  "paragraph": "E",
+                  "answer": "ii"
+                },
+                {
+                  "id": "19",
+                  "paragraph": "F",
+                  "answer": "iv"
+                }
+              ]
+            },
+            {
+              "type": "matchOptions",
+              "title": "Questions 20-23",
+              "instruction": "Match each statement with the correct expert.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jesper Juul"
+                },
+                {
+                  "id": "B",
+                  "text": "Raph Koster"
+                },
+                {
+                  "id": "C",
+                  "text": "Margaret Robertson"
+                },
+                {
+                  "id": "D",
+                  "text": "Dan Pinchbeck"
+                },
+                {
+                  "id": "E",
+                  "text": "Ben Weedon"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "20",
+                  "prompt": "Players' involvement in games often includes thinking ahead.",
+                  "answer": "D"
+                },
+                {
+                  "id": "21",
+                  "prompt": "The inclusion of unanticipated elements keeps players interested.",
+                  "answer": "E"
+                },
+                {
+                  "id": "22",
+                  "prompt": "It's now accepted that creating video games is a skill that can be learned.",
+                  "answer": "A"
+                },
+                {
+                  "id": "23",
+                  "prompt": "Early games were much simpler than more recent ones.",
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "type": "gapfill",
+              "title": "Questions 24-26",
+              "instruction": "Choose ONE WORD ONLY from the passage for each answer.",
+              "questions": [
+                {
+                  "id": "24",
+                  "prompt": "Koster believes that games remove people's fear of _____.",
+                  "answer": "failure"
+                },
+                {
+                  "id": "25",
+                  "prompt": "Robertson's view is that games feel exciting partly because of the _____ that is associated with them.",
+                  "answer": "disapproval"
+                },
+                {
+                  "id": "26",
+                  "prompt": "Narrative games are often structured so that the first and last part are both _____.",
+                  "answer": "short"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts-reading-mungo-video-games-blind-change",
+      "title": "ielts_reading_practice_ANSWER_KEY_UPDATED",
+      "duration": 60,
+      "sourceFile": "ielts_reading_from_images_v3(1).docx",
+      "sourceNotes": "Updated with the answer key images provided by the user. Some option letters in the original converted Word file appeared inconsistent with the answer key, so option labels were aligned to the provided answer key for automatic marking.",
+      "passages": [
+        {
+          "id": "p1",
+          "label": "Passage 1",
+          "title": "Mungo Lady and Mungo Man",
+          "subtitle": "Controversies in Australian Prehistory",
+          "paragraphs": [
+            {
+              "label": "1",
+              "text": "Fifty thousand years ago, a lush landscape greeted the first Australians moving towards the south-east of the continent. Temperatures were cooler than now. Megafauna - giant prehistoric animals such as marsupial lions and the rhinoceros-sized diprotodon - were abundant. Freshwater lakes in areas of western New South Wales (NSW) were brimming with fish. But change was coming. By 40,000 years ago, water levels had started to drop."
+            },
+            {
+              "label": "2",
+              "text": "A study of the sediments and graves of Lake Mungo, a dry lake bed in western NSW, has uncovered the muddy layers deposited as the lake began to dry up. Forty thousand years ago, families took refuge at the lake from the encroaching desert, leaving artefacts such as stone tools, which researchers used to determine that the first wanderers came to the area between 46,000 and 50,000 years ago. By 20,000 years ago, the lake had become the dry, dusty hole it is today. This area was first examined by the University of Melbourne geologist Professor Jim Bowler in 1969. He was searching for ancient lakes and came across the remains of a woman who had been buried with some ceremony; she was given the name ‘Mungo Lady’. In 1974, he found a second set of remains, Mungo Man, buried 300 metres away. Bowler's comprehensive study of different sediment layers has concluded that both graves are 40,000 years old."
+            },
+            {
+              "label": "3",
+              "text": "This is much younger than the 62,000 years Mungo Man was attributed with in 1999 by a team led by Professor Alan Thorne, of the Australian National University. Thorne is the country's leading opponent of the ‘Out of Africa’ theory - that modern humans spread around the globe from Africa about 100,000 years ago. The revision of Mungo Man's age has refocused attention on academic disputes about mankind's origins."
+            },
+            {
+              "label": "4",
+              "text": "The arrival date of these early Australians is linked to another vexed question: the reason for the disappearance of the megafauna. Dr Tim Flannery, a proponent of the controversial theory that these animals were wiped out by the extreme hunting practices of humans, claims that the new Mungo dates support this view. For Bowler, however, these debates are speculative distractions. At 40,000 years old, he argues, Mungo Man and Mungo Lady remain Australia's oldest human burials and the earliest evidence on Earth of cultural sophistication. ‘At Lake Mungo, we have a cameo of people reacting to environmental change. It is one of the great stories of the people of the world.’"
+            },
+            {
+              "label": "5",
+              "text": "Two rival groups of researchers have each attacked the techniques used by the other to ascertain the date of Mungo Man. In the 1999 study, Thorne's team used three techniques to date Mungo Man - bone, tooth enamel and sand. Bowler has strongly challenged the results ever since. Dating human bones is ‘notoriously unreliable,’ he says. In addition, the sand sample used by Thorne's group was taken hundreds of metres from the burial site."
+            },
+            {
+              "label": "6",
+              "text": "Bowler has stated that it is not difficult ‘to realise that the age of sand is not the same as the age of the grave’. He says his team's results are based on careful fieldwork, crosschecked between four laboratories, while Thorne's team misinterpreted the evidence, ‘locked in a laboratory in Canberra’. Thorne counters that Bowler's team used one dating technique, while his used three. Best practice is to have at least two methods producing the same result. A Thorne team member, Professor Rainer Grün, says the fact that the latest results were consistent between laboratories doesn't mean they are correct. ‘We now have two data sets that are contradictory. I do not have a plausible explanation.’"
+            },
+            {
+              "label": "7",
+              "text": "Thorne recently made headlines with a study of Mungo Man's DNA, which he claimed supported his idea that modern humans developed from archaic humans in several places around the world, rather than emerging from Africa a relatively short time ago. Now, however, Thorne says the age of Mungo Man is irrelevant. Recent fossil finds show that modern humans were in China 110,000 years ago. ‘So he has a long time to arrive in Australia. It doesn't matter if he is 40,000 or 60,000 years old.’"
+            },
+            {
+              "label": "8",
+              "text": "In 2001, a member of Bowler's team, Dr Richard Roberts of Wollongong University, along with Flannery, Director of the South Australian Museum, published research on the extinction of the megafauna. They dated 28 sites across the continent, arguing that their analysis showed that the megafauna died out suddenly 46,600 years ago. This conclusion has been challenged by other scientists, including Dr Judith Field of the University of Sydney and Dr Richard Fullager of the Australian Museum, who point to the presence of megafauna fossils at the 36,000-year-old Cuddie Springs site in NSW."
+            },
+            {
+              "label": "9",
+              "text": "Flannery praises the Bowler team's research as thorough and rigorous. He says the finding that humans arrived at Lake Mungo between 46,000 and 50,000 years ago supports the idea that that was a critical time in Australia's history. There is no evidence of a dramatic climate change at that time, he says. ‘It's my view that humans arrived and megafauna extinction took place in almost the same geological instant.’ Bowler, however, is sceptical of Flannery's theory about the disappearance of the giant animals. He argues that climate change 40,000 years ago was more intense than has been previously realised and could have played an important role in their extinction."
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchOptions",
+              "title": "Questions 1-8",
+              "instruction": "Match each theory with the correct researcher(s), A-F. NB You may use any letter more than once.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jim Bowler"
+                },
+                {
+                  "id": "B",
+                  "text": "Alan Thorne"
+                },
+                {
+                  "id": "C",
+                  "text": "Tim Flannery"
+                },
+                {
+                  "id": "D",
+                  "text": "Rainer Grün"
+                },
+                {
+                  "id": "E",
+                  "text": "Richard Roberts and Tim Flannery"
+                },
+                {
+                  "id": "F",
+                  "text": "Judith Field and Richard Fullager"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "1",
+                  "prompt": "Our human ancestors did not originate in only one area.",
+                  "answer": "B"
+                },
+                {
+                  "id": "2",
+                  "prompt": "The extinction of the megafauna happened within a brief period.",
+                  "answer": "E"
+                },
+                {
+                  "id": "3",
+                  "prompt": "The megafauna died out as a result of human activity.",
+                  "answer": "C"
+                },
+                {
+                  "id": "4",
+                  "prompt": "The similarity of results does not always guarantee their validity.",
+                  "answer": "D"
+                },
+                {
+                  "id": "5",
+                  "prompt": "How old Mungo Man is, is unimportant.",
+                  "answer": "B"
+                },
+                {
+                  "id": "6",
+                  "prompt": "There is evidence to disprove the theory of mass megafauna extinction.",
+                  "answer": "F"
+                },
+                {
+                  "id": "7",
+                  "prompt": "An extreme environmental change occurred at the time that humans first moved into the Lake Mungo area.",
+                  "answer": "A"
+                },
+                {
+                  "id": "8",
+                  "prompt": "The earliest evidence of advanced human culture is found in Australia.",
+                  "answer": "A"
+                }
+              ]
+            },
+            {
+              "type": "tfng",
+              "title": "Questions 9-13",
+              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
+              "questions": [
+                {
+                  "id": "9",
+                  "prompt": "Objects found in the Lake Mungo area were used to date the arrival of humans.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "10",
+                  "prompt": "Ancient weapons were found in the Lake Mungo area.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "11",
+                  "prompt": "Scientists agree about the age of Mungo Man.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "12",
+                  "prompt": "Thorne's research involved analysing more than one material.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "13",
+                  "prompt": "Bowler has criticised the research methods used by Thorne.",
+                  "answer": "TRUE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "label": "Passage 2",
+          "title": "The attraction of video games",
+          "subtitle": "The world's love of video games has much to do with people's desires and motives",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. ‘I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.’ Designing video games is increasingly recognised as a valid field of university study throughout the world."
+            },
+            {
+              "label": "B",
+              "text": "Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. ‘Games allow us to create these little systems where learning is controlled really brilliantly,’ says Margaret Robertson, director at a London-based game design company. ‘Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!’ And that can, of course, be very exciting."
+            },
+            {
+              "label": "C",
+              "text": "Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. ‘Games are increasingly complex systems,’ says Dan Pinchbeck, an experimental game designer. ‘There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.’"
+            },
+            {
+              "label": "D",
+              "text": "Many studios design their games around reward systems. ‘A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,’ says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated."
+            },
+            {
+              "label": "E",
+              "text": "Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive."
+            },
+            {
+              "label": "F",
+              "text": "Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of ‘gamification’, in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years."
+            },
+            {
+              "label": "G",
+              "text": "So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive."
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchingHeadings",
+              "title": "Questions 14-19",
+              "instruction": "Choose the correct heading for each section from the list of headings below. Drag the heading to the top of the correct paragraph, or use the dropdown.",
+              "options": [
+                {
+                  "id": "i",
+                  "text": "Being able to experiment without consequences"
+                },
+                {
+                  "id": "ii",
+                  "text": "Why stories are included in games"
+                },
+                {
+                  "id": "iii",
+                  "text": "The key role of the unexpected for game players"
+                },
+                {
+                  "id": "iv",
+                  "text": "Transferring features of games to other types of products"
+                },
+                {
+                  "id": "v",
+                  "text": "The age group that games most appeal to"
+                },
+                {
+                  "id": "vi",
+                  "text": "The development of the video game design industry"
+                },
+                {
+                  "id": "vii",
+                  "text": "Players' ability to control what occurs in games"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "14",
+                  "paragraph": "A",
+                  "answer": "vi"
+                },
+                {
+                  "id": "15",
+                  "paragraph": "B",
+                  "answer": "i"
+                },
+                {
+                  "id": "16",
+                  "paragraph": "C",
+                  "answer": "vii"
+                },
+                {
+                  "id": "17",
+                  "paragraph": "D",
+                  "answer": "iii"
+                },
+                {
+                  "id": "18",
+                  "paragraph": "E",
+                  "answer": "ii"
+                },
+                {
+                  "id": "19",
+                  "paragraph": "F",
+                  "answer": "iv"
+                }
+              ]
+            },
+            {
+              "type": "matchOptions",
+              "title": "Questions 20-23",
+              "instruction": "Match each statement with the correct expert, A-E. NB You may use any letter more than once.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jesper Juul"
+                },
+                {
+                  "id": "B",
+                  "text": "Raph Koster"
+                },
+                {
+                  "id": "C",
+                  "text": "Margaret Robertson"
+                },
+                {
+                  "id": "D",
+                  "text": "Dan Pinchbeck"
+                },
+                {
+                  "id": "E",
+                  "text": "Ben Weedon"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "20",
+                  "prompt": "Players' involvement in games often includes thinking ahead.",
+                  "answer": "D"
+                },
+                {
+                  "id": "21",
+                  "prompt": "The inclusion of unanticipated elements keeps players interested.",
+                  "answer": "E"
+                },
+                {
+                  "id": "22",
+                  "prompt": "It's now accepted that creating video games is a skill that can be learned.",
+                  "answer": "A"
+                },
+                {
+                  "id": "23",
+                  "prompt": "Early games were much simpler than more recent ones.",
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "type": "gapfill",
+              "title": "Questions 24-26",
+              "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+              "questions": [
+                {
+                  "id": "24",
+                  "prompt": "Koster believes that games remove people's fear of _____.",
+                  "answer": "failure"
+                },
+                {
+                  "id": "25",
+                  "prompt": "Robertson's view is that games feel exciting partly because of the _____ that is associated with them.",
+                  "answer": "disapproval"
+                },
+                {
+                  "id": "26",
+                  "prompt": "Narrative games are often structured so that the first and last part are both _____.",
+                  "answer": "short"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "label": "Passage 3",
+          "title": "Blind to Change",
+          "subtitle": "How much of the world around you do you really see?",
+          "paragraphs": [
+            {
+              "label": "1",
+              "text": "Picture the following and prepare to be amazed. You're walking across a college campus when a stranger asks you for directions. While you're talking to him, two men pass between you carrying a wooden door. You feel a moment's irritation, but you carry on describing the route. When you've finished, you're told you've just taken part in a psychology experiment. ‘Did you notice anything after the two men passed with the door?’ the stranger asks. ‘No,’ you reply uneasily. He explains that the man who initially approached you walked off behind the door leaving him in his place. The first man now rejoins you. Comparing them, you notice that they are of different height and build and are dressed very differently."
+            },
+            {
+              "label": "2",
+              "text": "Daniel Simons of Harvard University found that 50% of participants missed the substitution because of what is called ‘change blindness’. When considered with a large number of recent experimental results, this phenomenon suggests we ‘see’ far less than we think we do. Rather than logging every detail of the visual scene, says Simons, we are actually highly selective. Our impression of seeing everything is just that. In fact, we extract a few details and rely on memory, or even our imagination, for the rest."
+            },
+            {
+              "label": "3",
+              "text": "Until recently, scientists believed that vision involved creating images within the brain. By forming detailed internal representations of our surroundings and comparing them over time, we could detect any alterations. However, in his book Consciousness Explained, philosopher Daniel Dennett argued that our brains only store a few key details about the world, which is why we can function effectively. According to Dennett, creating elaborate images in short-term memory would consume valuable cognitive resources. Instead, we record what has changed and assume everything else remains unchanged. As a result, we inevitably overlook some details. Experiments had demonstrated that we tend to ignore elements in our visual field that seem unimportant, such as a repeated word or line in a text. But even Dennett didn't fully realise just how little we actually ‘see.’"
+            },
+            {
+              "label": "4",
+              "text": "A year later, John Grimes from the University of Illinois drew attention by showing that people who were presented with computer-generated images of natural scenes failed to notice changes made while their eyes were, for example, scanning the scene or blinking. Dennett was pleased: ‘In hindsight, I wish I had been bolder, as the effects are more pronounced than I originally claimed.’ Subsequently, it was discovered that our eyes don't even need to be moving to be deceived. A typical laboratory experiment might display an image on a computer screen, like a couple dining on a terrace. The image would briefly disappear, replaced by a blank screen, then reappear with a significant change, such as a raised railing behind the couple. Many people search the screen for up to a minute."
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchOptions",
+              "title": "Questions 27-30",
+              "instruction": "Match each person with the correct claim, A-G.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "People overlook changes that happen during eye movements."
+                },
+                {
+                  "id": "B",
+                  "text": "At times, we fail to notice something because we choose to deceive ourselves."
+                },
+                {
+                  "id": "C",
+                  "text": "Retaining every image and memory would hinder our ability to function effectively."
+                },
+                {
+                  "id": "D",
+                  "text": "Sometimes, people overlook the significance of a crucial figure in a scene."
+                },
+                {
+                  "id": "E",
+                  "text": "We don't have complete control over what captures our attention."
+                },
+                {
+                  "id": "F",
+                  "text": "Imagining a scene and physically being there impact our visual processes in similar ways."
+                },
+                {
+                  "id": "G",
+                  "text": "We misunderstand what we see because we rely on our imagination."
+                }
+              ],
+              "questions": [
+                {
+                  "id": "27",
+                  "prompt": "Daniel Dennett",
+                  "answer": "C"
+                },
+                {
+                  "id": "28",
+                  "prompt": "John Grimes",
+                  "answer": "A"
+                },
+                {
+                  "id": "29",
+                  "prompt": "Stephen Kosslyn",
+                  "answer": "F"
+                },
+                {
+                  "id": "30",
+                  "prompt": "Kevin O'Regan",
+                  "answer": "E"
+                }
+              ]
+            },
+            {
+              "type": "tfng",
+              "title": "Questions 31-35",
+              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
+              "questions": [
+                {
+                  "id": "31",
+                  "prompt": "One expert expressed regret for having underemphasized his argument in a publication.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "32",
+                  "prompt": "We overlook insignificant items that come into our view.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "33",
+                  "prompt": "Research into cognitive errors might potentially save lives.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "34",
+                  "prompt": "The aging process increases the need to fill in gaps in our visual perception.",
+                  "answer": "NOT GIVEN"
+                },
+                {
+                  "id": "35",
+                  "prompt": "Our eyes are only at risk of being deceived when they are in motion.",
+                  "answer": "FALSE"
+                }
+              ]
+            },
+            {
+              "type": "matchOptions",
+              "title": "Questions 36-40",
+              "instruction": "Complete each sentence with the correct ending, A-G.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "is not backed by scientific evidence."
+                },
+                {
+                  "id": "B",
+                  "text": "is provided by memory."
+                },
+                {
+                  "id": "C",
+                  "text": "causes us to overlook other details."
+                },
+                {
+                  "id": "D",
+                  "text": "has been especially fruitful in recent times."
+                },
+                {
+                  "id": "E",
+                  "text": "has sparked significant public debate."
+                },
+                {
+                  "id": "F",
+                  "text": "is challenging for us to accept."
+                },
+                {
+                  "id": "G",
+                  "text": "helps us see the overall picture more clearly."
+                }
+              ],
+              "questions": [
+                {
+                  "id": "36",
+                  "prompt": "Concentrating on a particular aspect of an activity or scene",
+                  "answer": "C"
+                },
+                {
+                  "id": "37",
+                  "prompt": "The fact that we make visual errors",
+                  "answer": "F"
+                },
+                {
+                  "id": "38",
+                  "prompt": "The part of the picture that we fail to see clearly",
+                  "answer": "B"
+                },
+                {
+                  "id": "39",
+                  "prompt": "The idea that we see everything in our visual field",
+                  "answer": "A"
+                },
+                {
+                  "id": "40",
+                  "prompt": "Research into the nature of human vision",
+                  "answer": "E"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "ielts-reading-mungo-video-games-blind-change::9": "TRUE",
+    "ielts-reading-mungo-video-games-blind-change::10": "NOT GIVEN",
+    "ielts-reading-mungo-video-games-blind-change::11": "FALSE",
+    "ielts-reading-mungo-video-games-blind-change::3": "C",
+    "ielts-reading-mungo-video-games-blind-change::12": "TRUE",
+    "ielts-reading-mungo-video-games-blind-change::8": "A",
+    "ielts-reading-mungo-video-games-blind-change::4": "D",
+    "ielts-reading-mungo-video-games-blind-change::13": "TRUE",
+    "ielts-reading-mungo-video-games-blind-change::1": "B",
+    "ielts-reading-mungo-video-games-blind-change::5": "B",
+    "ielts-reading-mungo-video-games-blind-change::2": "E",
+    "ielts-reading-mungo-video-games-blind-change::6": "F",
+    "ielts-reading-mungo-video-games-blind-change::7": "A"
+  },
+  "highlights": {
+    "ielts-reading-mungo-video-games-blind-change::p1": "<h1 class=\"passage-title\">Mungo Lady and Mungo Man</h1><p class=\"passage-subtitle\">Controversies in Australian Prehistory</p><section class=\"para\" data-para=\"1\"><span class=\"para-label\">1</span><div class=\"para-text\">Fifty thousand years ago, a lush landscape greeted the first Australians moving towards the south-east of the continent. Temperatures were cooler than now. Megafauna - giant prehistoric animals such as marsupial lions and the rhinoceros-sized diprotodon - were abundant. Freshwater lakes in areas of western New South Wales (NSW) were brimming with fish. But change was coming. By 40,000 years ago, water levels had started to drop.</div></section><section class=\"para\" data-para=\"2\"><span class=\"para-label\">2</span><div class=\"para-text\"><mark class=\"hl\">A study of the sediments and graves of Lake Mungo,</mark> a dry lake bed in western NSW, has uncovered the muddy layers deposited as the lake began to dry up. Forty thousand years ago, families took refuge at the lake from the encroaching desert, leaving artefacts such as stone tools, which researchers used to d<mark class=\"hl\">etermine that the first wanderers </mark><mark class=\"hl\">came to the area between 46,000 and 50,000 years ago.</mark> By 20,000 years ago, the lake had become the dry, dusty hole it is today. This area was first examined by the University of Melbourne geologist Professor <mark class=\"hl\">Jim Bowle</mark>r in 1969. He was searching for ancient lakes and<mark class=\"hl\"> came across the remains of a woman </mark>who had been buried with some ceremony; <mark class=\"hl\">she was given the name ‘Mungo Lady</mark>’. In 1974,<mark class=\"hl\"> he found a second set of remains, Mungo Man</mark>, buried 300 metres away. <mark class=\"hl\">Bowler's </mark>comprehensive study of different sediment layers has concluded th<mark class=\"hl\">at both graves are 40,000 years old.</mark></div></section><section class=\"para\" data-para=\"3\"><span class=\"para-label\">3</span><div class=\"para-text\">This is much younger than the 62,000 years Mungo Man was attributed with in 1999 by a team led by Professor Alan <mark class=\"hl\">Thorne</mark>, of the Australian National University. Thorne <mark class=\"hl\">is the country's leading opponent of the ‘Out of Africa’ theory </mark>- that modern humans spread around the globe from Africa about 100,000 years ago. The r<mark class=\"hl\">evision of Mungo Man's age has refocused attention on academic disputes about mankind's origins.</mark></div></section><section class=\"para\" data-para=\"4\"><span class=\"para-label\">4</span><div class=\"para-text\">T<mark class=\"hl\">he arrival date of these early Australians</mark><mark class=\"hl\"> is linked to</mark> another vexed question: the reason for <mark class=\"hl\">the disappearance of the megafaun</mark>a. Dr Tim <mark class=\"hl\">Flannery</mark>, a <mark class=\"hl\">proponent of the controversial theory</mark> that these <mark class=\"hl\">animals </mark>were <mark class=\"hl\">wiped out by the extreme hunting practices of humans, </mark>claims that the new Mungo dates support this view. For <mark class=\"hl\">Bowler</mark>, however, these debates are speculative distractions. At 40,000 years old, he argues, M<mark class=\"hl\">ungo Man and Mungo Lady remain Australia's oldest human burials and the earliest evidence on Earth of cultural sophistication.</mark> ‘At Lake Mungo, we have a cameo of people reacting to environmental change. It is one of the great stories of the people of the world.’</div></section><section class=\"para\" data-para=\"5\"><span class=\"para-label\">5</span><div class=\"para-text\">Two rival groups of researchers have each attacked the techniques used by the other to ascertain the date of Mungo Man. In the 1999 study, <mark class=\"hl\">Thorne's </mark>team <mark class=\"hl\">used three techniques to date Mungo Man - bone</mark>, <mark class=\"hl\">tooth enamel and sand.</mark> Bowler has strongly challenged the results ever since. Dating human bones is ‘notoriously unreliable,’ he says. In addition, the sand sample used by Thorne's group was taken hundreds of metres from the burial site.</div></section><section class=\"para\" data-para=\"6\"><span class=\"para-label\">6</span><div class=\"para-text\"><mark class=\"hl\">Bowler </mark>has stated that it is not difficult ‘to realise that t<mark class=\"hl\">he age of sand is not the same as the age of the grave’</mark>. He says his team's results are based on careful fieldwork, crosschecked between four laboratories, while <mark class=\"hl\">Thorne's </mark><mark class=\"hl\">team misinterpreted the evidence, ‘locked in a laboratory in Canberr<mark class=\"hl\">a</mark></mark><mark class=\"hl\">’. Thorne counters that Bowler's team used one dating technique, while his used three</mark>. Best practice is to have at least two methods producing the same result. A Thorne team member, Professor R<mark class=\"hl\">ainer Grün, </mark>says the fact that t<mark class=\"hl\">he latest results were consistent between laboratories doesn't mean they are correct. ‘</mark>We now have two data sets that are contradictory. I do not have a plausible explanation.’</div></section><section class=\"para\" data-para=\"7\"><span class=\"para-label\">7</span><div class=\"para-text\"><mark class=\"hl\">Thorne </mark>recently made headlines with a study of Mungo Man's DNA, which he claimed supported <mark class=\"hl\">his idea</mark> that <mark class=\"hl\">modern humans developed from archaic humans in several places around the world, </mark>rather than emerging from Africa a relatively short time ago. Now, however, Thorne says t<mark class=\"hl\">he age of Mungo Man is irrelevant.</mark> Recent fossil finds show that modern humans were in China 110,000 years ago. ‘So he has a long time to arrive in Australia. It doesn't matter if he is 40,000 or 60,000 years old.’</div></section><section class=\"para\" data-para=\"8\"><span class=\"para-label\">8</span><div class=\"para-text\">In 2001, a member of Bowler's team, Dr Richard <mark class=\"hl\">Roberts</mark> of Wollongong University, along with Flannery, Director of the South Australian Museum, <mark class=\"hl\">published research on the extinction of the megafauna. </mark>They <mark class=\"hl\">dated 28 sites across the continen</mark>t, arguing that their analysis showed that the<mark class=\"hl\"> megafauna died out suddenly 46,600 years ago.</mark> This conclusion has been challenged by other scientists, including<mark class=\"hl\"> Dr Judith Field </mark>of the University of Sydney and Dr Richard Fullager of the Australian Museum, who point to<mark class=\"hl\"> the presence of megafauna fossils at the 36,000-year-old Cuddie Springs site in NSW.</mark></div></section><section class=\"para\" data-para=\"9\"><span class=\"para-label\">9</span><div class=\"para-text\">Flannery praises the Bowler team's research as thorough and rigorous. He says the finding that humans arrived at Lake Mungo between 46,000 and 50,000 years ago supports the idea that that was a critical time in Australia's history. <mark class=\"hl\">There is no evidence of a dramatic climate change at that time</mark>, he says. ‘It's my view that humans arrived and megafauna extinction took place in almost the same geological instant.’ <mark class=\"hl\">Bowler</mark>, however, is sceptical of Flannery's theory about the disappearance of the giant animals. He argues that climate change 40,000 years ago was more intense than has been previously realised and could have played an important role in their extinction.</div></section>",
+    "ielts-reading-mungo-video-games-blind-change::p2": "<h1 class=\"passage-title\">The attraction of video games</h1><p class=\"passage-subtitle\">The world's love of video games has much to do with people's desires and motives</p><section class=\"para\" data-para=\"A\"><span class=\"para-label\">A</span><div class=\"drop-zone \" data-qid=\"14\"><span class=\"drop-label\">Q14</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"14\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. ‘I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.’ Designing video games is increasingly recognised as a valid field of university study throughout the world.</div></section><section class=\"para\" data-para=\"B\"><span class=\"para-label\">B</span><div class=\"drop-zone \" data-qid=\"15\"><span class=\"drop-label\">Q15</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"15\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. ‘Games allow us to create these little systems where learning is controlled really brilliantly,’ says Margaret Robertson, director at a London-based game design company. ‘Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!’ And that can, of course, be very exciting.</div></section><section class=\"para\" data-para=\"C\"><span class=\"para-label\">C</span><div class=\"drop-zone \" data-qid=\"16\"><span class=\"drop-label\">Q16</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"16\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. ‘Games are increasingly complex systems,’ says Dan Pinchbeck, an experimental game designer. ‘There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.’</div></section><section class=\"para\" data-para=\"D\"><span class=\"para-label\">D</span><div class=\"drop-zone \" data-qid=\"17\"><span class=\"drop-label\">Q17</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"17\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Many studios design their games around reward systems. ‘A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,’ says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated.</div></section><section class=\"para\" data-para=\"E\"><span class=\"para-label\">E</span><div class=\"drop-zone \" data-qid=\"18\"><span class=\"drop-label\">Q18</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"18\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive.</div></section><section class=\"para\" data-para=\"F\"><span class=\"para-label\">F</span><div class=\"drop-zone \" data-qid=\"19\"><span class=\"drop-label\">Q19</span><span class=\"drop-text\">Kéo heading vào đây</span><select class=\"mobile-select\" data-qid=\"19\"><option value=\"\">Chọn heading</option><option value=\"i\">i. Being able to experiment without consequences</option><option value=\"ii\">ii. Why stories are included in games</option><option value=\"iii\">iii. The key role of the unexpected for game players</option><option value=\"iv\">iv. Transferring features of games to other types of products</option><option value=\"v\">v. The age group that games most appeal to</option><option value=\"vi\">vi. The development of the video game design industry</option><option value=\"vii\">vii. Players' ability to control what occurs in games</option></select></div><div class=\"para-text\">Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of ‘gamification’, in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years.</div></section><section class=\"para\" data-para=\"G\"><span class=\"para-label\">G</span><div class=\"para-text\">So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive.</div></section>",
+    "ielts-reading-mungo-video-games-blind-change::p3": "<h1 class=\"passage-title\">Blind to Change</h1><p class=\"passage-subtitle\">How much of the world around you do you really see?</p><section class=\"para\" data-para=\"1\"><span class=\"para-label\">1</span><div class=\"para-text\">Picture the following and prepare to be amazed. You're walking across a college campus when a stranger asks you for directions. While you're talking to him, two men pass between you carrying a wooden door. You feel a moment's irritation, but you carry on describing the route. When you've finished, you're told you've just taken part in a psychology experiment. ‘Did you notice anything after the two men passed with the door?’ the stranger asks. ‘No,’ you reply uneasily. He explains that the man who initially approached you walked off behind the door leaving him in his place. The first man now rejoins you. Comparing them, you notice that they are of different height and build and are dressed very differently.</div></section><section class=\"para\" data-para=\"2\"><span class=\"para-label\">2</span><div class=\"para-text\">Daniel Simons of Harvard University found that 50% of participants missed the substitution because of what is called ‘change blindness’. When considered with a large number of recent experimental results, this phenomenon suggests we ‘see’ far less than we think we do. Rather than logging every detail of the visual scene, says Simons, we are actually highly selective. Our impression of seeing everything is just that. In fact, we extract a few details and rely on memory, or even our imagination, for the rest.</div></section><section class=\"para\" data-para=\"3\"><span class=\"para-label\">3</span><div class=\"para-text\">Until recently, scientists believed that vision involved creating images within the brain. By forming detailed internal representations of our surroundings and comparing them over time, we could detect any alterations. However, in his book Consciousness Explained, philosopher Daniel Dennett argued that our brains only store a few key details about the world, which is why we can function effectively. According to Dennett, creating elaborate images in short-term memory would consume valuable cognitive resources. Instead, we record what has changed and assume everything else remains unchanged. As a result, we inevitably overlook some details. Experiments had demonstrated that we tend to ignore elements in our visual field that seem unimportant, such as a repeated word or line in a text. But even Dennett didn't fully realise just how little we actually ‘see.’</div></section><section class=\"para\" data-para=\"4\"><span class=\"para-label\">4</span><div class=\"para-text\">A year later, John Grimes from the University of Illinois drew attention by showing that people who were presented with computer-generated images of natural scenes failed to notice changes made while their eyes were, for example, scanning the scene or blinking. Dennett was pleased: ‘In hindsight, I wish I had been bolder, as the effects are more pronounced than I originally claimed.’ Subsequently, it was discovered that our eyes don't even need to be moving to be deceived. A typical laboratory experiment might display an image on a computer screen, like a couple dining on a terrace. The image would briefly disappear, replaced by a blank screen, then reappear with a significant change, such as a raised railing behind the couple. Many people search the screen for up to a minute.</div></section>"
+  }
+}
